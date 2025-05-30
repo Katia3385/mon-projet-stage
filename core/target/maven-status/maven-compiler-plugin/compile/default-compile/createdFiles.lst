@@ -1,0 +1,14 @@
+com\arem\core\model\Provider.class
+com\arem\core\model\User.class
+com\arem\core\model\Order.class
+com\arem\core\model\Product.class
+com\arem\core\model\Side.class
+com\arem\core\model\Measure.class
+com\arem\core\model\Price.class
+com\arem\core\model\Seller.class
+com\arem\core\model\Payment.class
+com\arem\core\model\Status.class
+com\arem\core\model\Facture.class
+com\arem\core\model\ICachable.class
+com\arem\core\model\UserRole.class
+com\arem\core\model\Customer.class
