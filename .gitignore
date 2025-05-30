@@ -1,0 +1,17 @@
+# Eclipse
+.metadata/
+*.class
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Autres fichiers temporaires
+*.tmp
+*.bak
+*.swp
